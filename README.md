@@ -9,6 +9,16 @@ Some codes...
 
 Additional software is used from the following sources. Follow their installation instructions.
 
+### Core Imaging Library (CIL)
+
+Jørgensen JS et al.  
+"Core Imaging Library Part I: a versatile python framework for tomographic imaging" [https://doi.org/10.1098/rsta.2020.0192](https://doi.org/10.1098/rsta.2020.0192) . Phil. Trans. R. Soc. A 20200192 (2021).  
+
+Papoutsellis E et al.  
+"Core Imaging Library - Part II: multichannel reconstruction for dynamic and spectral tomography" [https://doi.org/10.1098/rsta.2020.0193](https://doi.org/10.1098/rsta.2020.0193) Phil. Trans. R. Soc. A 20200193 (2021).  
+
+**Official documentation**: [https://tomographicimaging.github.io/CIL/](https://tomographicimaging.github.io/CIL/nightly/index.html)
+
 ### ASTRA Toolbox
  
 W. Van Aarle, W. J. Palenstijn, J. Cant, E. Janssens, F. Bleichrodt, A. Dabravolski, J. De Beenhouwer,
